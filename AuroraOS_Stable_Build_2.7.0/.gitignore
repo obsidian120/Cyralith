@@ -1,0 +1,12 @@
+# Kernel build output
+kernel/build/
+kernel/iso/boot/auroraos.kernel
+kernel/build/auroraos.iso
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor / OS clutter
+.DS_Store
+Thumbs.db
