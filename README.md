@@ -33,6 +33,6 @@ Programmiert von Obsidian.
 
 
 
-![AuroraOS Boot](assets/boot.png)
+![AuroraOS ai](assets/ai shell.png)
 ![AuroraOS Settings](assets/settings.png)
 ![AuroraOS Lumen](assets/lumen.png)
