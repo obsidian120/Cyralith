@@ -1,0 +1,5 @@
+-better networking [done: nic scan, netup, netprobe, doctor]
+-external program loader [done: manifests, launch, approvals, caps]
+-shell polish [done: launcher, jobs, action log, doctor/recover]
+-safer permissions [done: approvals, caps, action logging]
+-long-term graphical mode [open]

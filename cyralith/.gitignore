@@ -1,0 +1,10 @@
+*Zone.Identifier*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Kernel build artifacts
+kernel/build/
+kernel/iso/boot/cyralith.kernel
+*.iso
